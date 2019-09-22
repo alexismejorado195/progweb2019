@@ -1,0 +1,16 @@
+body{
+    /*background:#0097e6;*/
+    /*background: url('../imagenes/circle-blues.png');*/
+    /*background-repeat: no-repeat;*/
+   /* background-position: center 50px;*/
+   background-repeat: repeat;
+   color: white;
+    
+   background: #667db6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, rgba(102, 125, 182,.7), rgba(0, 130, 200,.7), rgba(0, 130, 200,.7),
+ rgba(102, 125, 182,.7)),
+url('../imagenes/circle-blues.png');  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, rgba(102, 125, 182,.7), rgba(0, 130, 200,.7), rgba(0, 130, 200,.7), rgba(102, 125, 182,.7)),
+url('../imagenes/circle-blues.png'); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

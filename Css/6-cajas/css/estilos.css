@@ -1,0 +1,11 @@
+div{
+    background: #9c88ff;
+    color:#fff;
+    width:37%;
+    height:140px;
+    padding: 30px;
+    margin: 10px;
+    border: 10px solid #000;
+    display: inline-block;
+
+}
